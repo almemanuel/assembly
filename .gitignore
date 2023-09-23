@@ -1,1 +1,8 @@
 .DS_Store
+*.hex
+*.HEX
+*.mcs
+*.map
+*.cof
+*.O
+*.err
